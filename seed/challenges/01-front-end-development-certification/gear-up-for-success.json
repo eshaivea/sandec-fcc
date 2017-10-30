@@ -1,28 +1,28 @@
 {
-  "name": "Gear up for Success",
+  "nama": "Gear up for Success",
   "order": 4,
-  "time": "20 minutes",
-  "challenges": [
+  "waktu": "20 menit",
+  "tantangan": [
     {
       "id": "570add8ccb82ac38a17513c3",
-      "title": "Join our LinkedIn Alumni Network",
-      "description": [
+      "judul": "Bergabunglah dengan Jaringan Alumni LinkedIn kami",
+      "deskripsi": [
         [
           "//i.imgur.com/vJyiXzU.gif",
-          "A gif showing how you can click the link below and fill in the necessary fields to add your Free Code Camp studies to your LinkedIn profile.",
-          "LinkedIn recognizes Free Code Camp as a university. You can gain access to our large alumni network by adding Free Code Camp to your LinkedIn profile's education section. Set your graduation date as next year. For \"Degree\", type \"Full Stack Web Development Certification\". For \"Field of study\", type \"Computer Software Engineering\". Then click \"Save Changes\".",
+          "Sebuah gif menunjukkan bagaimana Anda bisa mengklik link di bawah ini dan mengisi kolom yang diperlukan untuk menambahkan studi Free Code Camp Anda ke profil LinkedIn Anda.",
+          "LinkedIn mengenali Free Code Camp sebagai universitas. Anda bisa mendapatkan akses ke jaringan alumni besar kami dengan menambahkan Free Code Camp ke bagian pendidikan profil LinkedIn Anda. Tetapkan tanggal kelulusanmu sebagai tahun depan. Untuk \ "Gelar \", ketik \ "Sertifikasi Web Development Stack Penuh \". Untuk \ "Bidang studi \", ketik \ "Teknik Perangkat Lunak Komputer \". Kemudian klik \ "Simpan Perubahan \". ",
           "https://www.linkedin.com/profile/edit-education?school=Free+Code+Camp"
         ]
       ],
-      "challengeSeed": [],
-      "tests": [],
-      "type": "Waypoint",
-      "challengeType": 7,
-      "titleEs": "Únete a nuestra red de alumnos en LinkedIn",
-      "descriptionEs": [
+      "tantangan": [],
+      "tes": [],
+      "tipe": "Waypoint",
+      "tipeTantangan": 7,
+      "judul": "Bergabunglah dengan jaringan pelajar kami di LinkedIn",
+      "deskripsi": [
         [
           "//i.imgur.com/vJyiXzU.gif",
-          "Un gif mostrando como puedes pulsar el enlace de abajo y llenar todos los campos necesarios para agregar los estudios de Free Code Camp a tu perfil de LinkedIn",
+          "Sebuah gif menunjukkan bagaimana Anda bisa mengklik link di bawah ini dan mengisi semua bidang yang diperlukan untuk menambahkan studio Free Code Camp ke profil LinkedIn Anda.",
           "LinkedIn reconoce a Free Code Camp como una universidad. Puedes obtener acceso a nuestra larga red de alumnos agregando Free Code Camp a la sección de educación de tu LinkedIn. Define tu fecha de graduación para el siguiente año. En el campo \"Grado\", escribe \"Certificación de Desarrollo Web Full Stack\". En \"Campo de estudio\", escribe \"Ingeniería de Software\". Después pulsa \"Guardar Cambios\".",
           "https://www.linkedin.com/profile/edit-education?school=Free+Code+Camp"
         ]
