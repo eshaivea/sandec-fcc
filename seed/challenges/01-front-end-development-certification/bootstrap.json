@@ -28,7 +28,7 @@
         "  }",
         "",
         "  p {",
-        "    font-size: 16px;",
+        "    font-size: 14px;",
         "    font-family: Monospace;",
         "  }",
         "",
@@ -44,7 +44,7 @@
         "  }",
         "</style>",
         "",
-        "<h2 class=\"red-text\">CatPhotoApp</h2>",
+        "<h2 class=\"red-text\">CatPhotoAppNew</h2>",
         "",
         "<p>Click here for <a href=\"#\">cat photos</a>.</p>",
         "",
@@ -53,7 +53,7 @@
         "<p>Things cats love:</p>",
         "<ul>",
         "  <li>cat nip</li>",
-        "  <li>laser pointers</li>",
+        "  <li>rope</li>",
         "  <li>lasagna</li>",
         "</ul>",
         "<p>Top 3 things cats hate:</p>",
@@ -90,14 +90,14 @@
         "Para iniciar, debemos anidar todo nuestro HTML en un elemento <code>div</code> con la clase <code>container-fluid</code>."
       ],
       "nameFr": "Un design adaptatif (responsive design) utilisant les conteneurs fluides de Bootstrap",
-      "descriptionFr": [
-        "Revenons à notre application de photos de chats. Cette fois-ci, nous allons lui donner un style grâce au renommé framework CSS Bootstrap.",
-        "Bootstrap saura reconnaître la largeur de notre écran et s'y adapter en redimensionnant les éléments HTML - d'où le nom <code>Responsive Design</code> (design adaptatif).",
-        "Avec le design responsive, il n'y a pas besoin de créer de version mobile de votre site. Il restera bien sur tous les appareils quelle que soit la taille de leurs écrans.",
-        "Vous pouvez ajouter Bootstrap à n'importe quelle application simplement en incluant le code suivant en haut de votre HTML:",
+      "deskirpsi": [
+        "Mari kembali ke aplikasi foto kucing kita. Kali ini, kami akan memberikannya sebuah gaya berkat kerangka Bootstrap CSS yang terkenal.",
+        "Bootstrap akan mengenali lebar layar kita dan menyesuaikannya dengan mengubah ukuran elemen HTML - maka nama <code> Responsive Design </ code>.",
+        "Dengan desain responsif, Anda tidak perlu membuat versi seluler dari situs Anda. Ini akan tetap pada semua perangkat tanpa memandang ukuran layar mereka.",
+        "Anda dapat menambahkan Bootstrap ke aplikasi apapun hanya dengan menyertakan kode berikut di bagian atas HTML Anda",
         "<code>&#60;link rel=\"stylesheet\" href=\"//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css\"/&#62;</code>",
-        "Ici, nous l'avons déjà ajouté à la page pour vous dans l'arrière-boutique.",
-        "Pour commencer, nous devons envelopper nos éléments HTML dans un élément <code>div</code> possédant la classe <code>container-fluid</code>"
+        "Di sini kita sudah menambahkannya ke halaman untuk Anda di back shop.",
+        "Untuk memulai, kita perlu membungkus elemen HTML kita dengan elemen <code> div </ code> dengan <code> container-fluid </ code>"
       ]
     },
     {
